@@ -1,6 +1,6 @@
 # llama-4bit-128g-autogptq
-4bit量化的llama1模型
-  - 7B：✅
+## 使用autogptq量化的4bit llama1模型
+  - 7 B：✅
   - 13B：✅
   - 30B：✅
   - 65B: ❌
